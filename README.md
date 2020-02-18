@@ -1,6 +1,6 @@
 # RunCustomizer
 Create custom Run commands for Windows 7 or higher OS. <br />
-Download "RunCustomizer.rar" and run "RunCustomizer.exe" - That's it!
+Download [RunCustomizer.rar](https://github.com/arshit09/Ezzz/issues/new "RunCustomizer.rar") and run "RunCustomizer.exe" - That's it!
 
 # Screenshot
 ![Main Page](https://raw.githubusercontent.com/arshit09/RunCustomizer/master/cover.jpg)
