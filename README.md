@@ -12,6 +12,7 @@ Download [RunCustomizer.rar](https://www.mediafire.com/file/n6zt8l8dzscebfp/RunC
 ## Setup in Visual Studio Code
 
 1) Import RunCustomizer.cs to your WindowsFormApp.
+
 2) Change the following in "app.manifest" to get administrative privilege,<br />
 change <br />
 ```  <requestedExecutionLevel level="asInvoker" uiAccess="false" /> ``` <br />
